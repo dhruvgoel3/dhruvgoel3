@@ -16,6 +16,15 @@ I have a deep understanding of app development, flutter, Java. I am eager to bri
   💬 Ask me about App development , Java.
 
   📄 Get my resume on LinkedIn.
+  
+
+  #### 👨‍💻 Programming Languages
+  
+        Java | Dart - App Development 
+
+ #### 🛠 Libraries & Frameworks
+  
+        Flutter
 
 
 

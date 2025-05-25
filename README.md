@@ -33,7 +33,7 @@ I have a deep understanding of app development, flutter, Java. I am eager to bri
 
 🔖 Semifinalist - Hack4Change'24 by Google 
 
-⭐️ Campus Ambassador IIT Delhi ' 2025
+⭐️ Campus Ambassador IIT Delhi ' 2025 .
 
 
 

@@ -6,7 +6,7 @@ Hello 👋, I'm Dhruv a 1st year student and GDSC core member at Maharishi marka
 I have a deep understanding of app development, flutter, Java. I am eager to bring my skills and experience to a new challenge as an engineer. I have worked with and can work with different technologies to implement scalable and robust solutions.<br><br>
 
 
-### 🏆  Achievement
+### 🏆  Achievements
 
 | Month/Year     | Achievement                               |
 |---------------|------------------------------------------|
@@ -26,7 +26,7 @@ I have a deep understanding of app development, flutter, Java. I am eager to bri
 
   👯 I’m looking to collaborate on flutter projects.
 
-  💬 Ask me about App development , Java.
+  💬 Ask me about App development , Java .
 
   📄 Get my resume on LinkedIn .
   

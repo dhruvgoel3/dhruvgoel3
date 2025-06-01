@@ -19,7 +19,7 @@ I have a deep understanding of app development, flutter, Java. I am eager to bri
 
 
 
-### * Talking about my personal stuff ..
+### * Talking about my personal stuff -
 
   👨‍💻 I'm currently working on learning stuffs.
 

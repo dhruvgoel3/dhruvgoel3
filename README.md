@@ -1,8 +1,15 @@
 ### 3x Hackathon Winner 🏆 | Flutter Developer 👨‍💻 | GDG(MMDU) Core Team Member.
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+##  Technical Knowledge
 
-
+• Flutter <br>
+• Spring Boot <br>
+• Java <br>
+• Dart <br>
+• Firebase <br>
+• Getx <br>
+• Rest API'S <br>
+• MongoDB <br>
+• Low Level Design <br>
 

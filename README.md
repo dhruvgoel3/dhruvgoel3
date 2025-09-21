@@ -10,6 +10,7 @@
 • Firebase <br>
 • Getx <br>
 • Rest API'S <br>
+• Postman <br>
 • MongoDB <br>
 • Low Level Design <br>
 

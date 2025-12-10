@@ -4,13 +4,14 @@
 ##  Technical Knowledge
 
 • Flutter <br>
-• Spring Boot <br>
 • Java <br>
 • Dart <br>
 • Firebase <br>
 • Getx <br>
+• Bloc <br>
 • Rest API'S <br>
 • Postman <br>
 • MongoDB <br>
-• Low Level Design <br>
+• Data Structures & Algorithms <br>
+
 

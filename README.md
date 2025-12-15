@@ -8,7 +8,8 @@
 • Dart <br>
 • Firebase <br>
 • Getx <br>
-• MVVM/MVC Pattern
+• MVVM/MVC Pattern <br>
+• Solid Principals <br>
 • Rest API'S <br>
 • Postman <br>
 • MongoDB <br>

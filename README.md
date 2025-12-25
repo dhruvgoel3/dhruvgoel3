@@ -4,15 +4,16 @@
 ##  Technical Knowledge
 
 • Flutter <br>
+• Spring Boot <br>
 • Java <br>
 • Dart <br>
-• Firebase <br>
+• Firebase <br> 
 • Getx <br>
 • MVVM/MVC Pattern <br>
 • Solid Principals <br>
 • Rest API'S <br>
 • Postman <br>
-• MongoDB <br>
+• MySql <br>
 • Data Structures & Algorithms <br>
 
 

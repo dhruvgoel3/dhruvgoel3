@@ -9,108 +9,46 @@
 </p>
 
 <h3 align="center">👨‍💻 Flutter App Developer & Java Backend Developer</h3>
-<p align="center"><b> Development -> Deployment | Hackathons | Product Building | Problem Solving  |  Freelancing </b></p>
 
-<img align="right" alt="Coding" width="260" 
+<p align="center">
+  <b>Development → Deployment | Hackathons | Product Building | Problem Solving | Freelancing</b>
+</p>
+
+<br>
+
+<img align="right" alt="Coding" width="260"
      src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
      hspace="20" vspace="10">
-     ### 👨‍💻 What I Do
 
-- 📱 Build **cross platform mobile apps** using Dart & Flutter
-- ⚙️ I make **scalable & secure backend applications** using Java & Spring Boot
-- 🔐 Implement **secure authentication & authorization** with Spring Security & JWT  
-- 🗄️ Work with **relational databases** using JPA / Hibernate    
+## 👨‍💻 What I Do
+
+- 📱 Build **cross platform mobile apps** using Dart & Flutter  
+- ⚙️ Make **scalable & secure backend applications** using Java & Spring Boot  
+- 🔐 Implement **authentication & authorization** with Spring Security & JWT  
+- 🗄️ Work with **relational databases** using JPA / Hibernate  
 - 🧠 Focus on **System Design, Clean Architecture & Performance Optimization**
-  
----
 
-<!-- <h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E4ZnNoeGVxY2E3dWFmcHdqd21vcWo3eDM3OWg4MGxtOHZuYTl1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUA7aXvRDAkfFUsVbO/giphy.gif" width="60" align="absmiddle"><b>Technical Knowledge : </b></h3>
+<br>
 
-• Flutter <br>
-• Spring Boot <br>
-• Java <br>
-• Dart <br>
-• Firebase <br> 
-• Getx <br>
-• MVVM/MVC Pattern <br>
-• Solid Principals <br>
-• Rest API'S <br>
-• Postman <br>
-• MySql <br>
-• Data Structures & Algorithms <br> -->
+## 🛠 Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,firebase,supabase,postgres,mysql,hibernate,git,github,vscode,androidstudio,postman,docker" />
+</p>
 
-<!-- <table align="center">
-<tr>
+<br>
 
-<td align="center" width="80">
-  <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/flutter-animation-gif-download-8922306.mp4?h=240" width="36"/><br>
-  <span style="font-size:12px;">Flutter</span>
-</td>
+## 🚀 Some of My Proud Moments
 
+| Year | Achievement | Event / Organization | Result |
+|------|------------|---------------------|--------|
+| 2025 | HackLLM | IIIT Delhi — ESYA | 🏆 Winner |
+| 2025 | Hackureka | National Hackathon | 🏆 Winner |
+| 2024 | National Innovation Awards | National Level | 🎖 Runner Up |
+| 2024 | Hack4Change | Google | 🏅 Semifinalist |
+| 2025 | Smart India Hackathon | Govt. of India | ⭐ Finalist |
+| 2025 | Innofusion | Hackathon | ⭐ Finalist |
+| 2026 | InnerveX | Hackathon | ⭐ Finalist |
+| 2024–25 | Internships | First Year | ✅ 2+ Offers |
 
-<td align="center" width="80">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="36"/><br>
-  <span style="font-size:12px;">Java</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="36"/><br>
-  <span style="font-size:12px;">Spring Boot</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="36"/><br>
-  <span style="font-size:12px;">MySQL</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=vscode" width="36"/><br>
-  <span style="font-size:12px;">VS Code</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=idea" width="36"/><br>
-  <span style="font-size:12px;">IntelliJ</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="36"/><br>
-  <span style="font-size:12px;">Docker</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/><br>
-  <span style="font-size:12px;">Postman</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=git" width="44"/><br>
-  <span style="font-size:12px;">Git</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=github" width="36"/><br>
-  <span style="font-size:12px;">GitHub</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=spring" width="36"/><br>
-  <span style="font-size:12px;">Microservices</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=redis" width="36"/><br>
-  <span style="font-size:12px;">Redis</span>
-</td>
-
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=kafka" width="36"/><br>
-  <span style="font-size:12px;">Kafka</span>
-</td>
-
-</tr>
-</table>
-
-
-</div> -->
+<br>

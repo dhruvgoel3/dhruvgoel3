@@ -44,6 +44,8 @@
 |------|------------|---------------------|--------|
 | 2025 | HackLLM | IIIT Delhi — ESYA | 🏆 Winner |
 | 2025 | Hackureka | National Hackathon | 🏆 Winner |
+| 2026 | Itinarary Innovator Challange | Technical Event | 🏆 Winner |
+| 2026 | Tech4SDG | National Ideathon | 🥈 1st Runner Up |
 | 2024 | National Innovation Awards | National Level | 🎖 Runner Up |
 | 2024 | Hack4Change | Google | 🏅 Semifinalist |
 | 2025 | Smart India Hackathon | Govt. of India | ⭐ Finalist |

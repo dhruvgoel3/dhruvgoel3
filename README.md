@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Dhruv+Goel;2x+National+Hackathon+Winner+🏆;Flutter+%7C+Spring+Boot+%7C+DevOps;Building+Scalable+Systems+Everyday+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Dhruv+Goel;4x+National+Hackathon+Winner+🏆;Flutter+%7C+Spring+Boot+%7C+DevOps;Building+Scalable+Systems+Everyday+🚀" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -33,7 +33,7 @@
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,firebase,supabase,postgres,mysql,hibernate,git,github,vscode,androidstudio,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,firebase,supabase,postgres,mysql,hibernate,git,github,vscode,androidstudio,postman,docker,kafka," />
 </p>
 
 <br>

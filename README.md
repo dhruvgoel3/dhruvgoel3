@@ -54,3 +54,15 @@
 | 2024–25 | Internships | First Year | ✅ 2+ Offers |
 
 <br>
+
+## 🚀 Featured Projects
+
+- 🚗 **[DriveResQ](https://github.com/dhruvgoel3/DriveResQ-App)** — Roadside assistance app connecting drivers with nearby mechanics
+- 👥 **[SquadBizz](https://squadbizz-app.vercel.app/)** — Squad communication and collaboration app
+- 🏥 **Doctalk** — AI-powered healthcare and medical assistance app
+- 🔗 **[Lynkz](https://lynkzapp.vercel.app/)** — Links and URL management platform
+- 💼 **[Personal Portfolio](https://goeldhruv.vercel.app/)** — Personal developer portfolio showcasing my work and experience
+- 🚀 **[Flutterix](https://flutterix.vercel.app/)** — Flutter app development agency portfolio
+- 💬 **[WhatsApp Clone](https://github.com/dhruvgoel3/whatsapp_Clone)** — Full-featured WhatsApp clone built with Flutter
+
+<br>

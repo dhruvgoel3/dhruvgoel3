@@ -16,28 +16,6 @@
 
 <br>
 
-<!-- <img align="right" alt="Coding" width="260"
-     src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
-     hspace="20" vspace="10"> -->
-
-## 👨‍💻 What I Do
-
-- 📱 Build **cross platform mobile apps** using Dart & Flutter  
-- ⚙️ Make **scalable & secure backend applications** using Java & Spring Boot  
-- 🔐 Implement **authentication & authorization** with Spring Security & JWT  
-- 🗄️ Work with **relational databases** using JPA / Hibernate  
-- 🧠 Focus on **System Design, Clean Architecture & Performance Optimization**
-
-<br>
-
-## 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,firebase,supabase,postgres,mysql,hibernate,git,github,vscode,androidstudio,postman,docker,kafka," />
-</p>
-
-<br>
-
 ## 🚀 Some of My Proud Moments
 
 | Year | Achievement | Event / Organization | Result |
@@ -54,6 +32,147 @@
 | 2024–25 | Internships | First Year | ✅ 2+ Offers |
 
 <br>
+
+# 🏗️ Engineering
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">Java Backend</h2>
+
+<p align="center">
+  Building secure, scalable and production-ready backend systems.
+</p>
+
+### Core
+
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Security
+- JWT
+- REST APIs
+- JPA / Hibernate
+- Swagger / OpenAPI
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+
+### Architecture
+
+- Clean Architecture
+- Layered Architecture
+- SOLID Principles
+- Design Patterns
+- System Design
+- Microservices
+- Distributed Systems
+- RBAC & Authorization
+
+### Infrastructure
+
+- Docker
+- Apache Kafka
+- CI/CD
+- Git & GitHub
+- Cloud Deployment
+
+<p align="center">
+  <code>Java</code> <code>Spring Boot</code> <code>Hibernate</code> <code>PostgreSQL</code> <code>Redis</code> <code>Kafka</code> <code>Docker</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">Flutter</h2>
+
+<p align="center">
+  Building cross-platform mobile products with scalable architecture.
+</p>
+
+### Core
+
+- Flutter
+- Dart
+- MVVM
+- GetX
+- Provider
+- Responsive UI
+- Custom UI Components
+
+### Backend & Services
+
+- Firebase
+- Supabase
+- Firestore
+- Authentication
+- Supabase Storage
+- REST API Integration
+
+### Architecture
+
+- Clean Architecture
+- MVVM
+- Repository Pattern
+- State Management
+- API Integration
+- Local Storage
+- Error Handling
+- Performance Optimization
+
+### Integrations
+
+- Google APIs
+- Maps & Location
+- Push Notifications
+- File Handling
+- Audio & Media
+
+### Deployment
+
+- Android
+- Google Play Store
+- APK / AAB
+
+<p align="center">
+  <code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Supabase</code> <code>REST APIs</code>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2 align="center">Product Building</h2>
+
+<p align="center">
+  My primary interest is building products end-to-end — from an idea and system architecture to development, deployment and scale.
+</p>
+
+<p align="center">
+  <b>Idea → Architecture → Development → Deployment → Product</b>
+</p>
+
+<br>
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,firebase,supabase,postgres,mysql,hibernate,git,github,vscode,androidstudio,postman,docker,kafka," />
+</p>
+
+<br>
+
+
 
 ## 🚀 Featured Projects
 
